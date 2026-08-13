@@ -1,0 +1,3 @@
+comparison,scene_level_pearson_r,mean_absolute_difference,n_scenes,n_films
+Full dialogue vs TF-IDF filtered,0.792870252264238,0.23850642113295625,44556,515
+Full dialogue vs Frequency baseline,0.7435873512816442,0.27853045381093455,44556,515

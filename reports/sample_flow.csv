@@ -1,0 +1,9 @@
+stage,films,note
+Film Corpus 2.0 published size,960,Publisher-described corpus size
+IDs in supplied extraction log,1070,Discrepancy requires provenance review
+Parsed,685,At least one scene extracted
+Parsing failed,385,See parsing_outcomes.csv
+TMDb matched,597,Before confidence review
+TMDb unmatched,88,No strong automated match
+TMDb ambiguous,75,title_score < 90
+High-confidence eligible,522,Before genre/dialogue missingness

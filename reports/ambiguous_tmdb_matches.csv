@@ -1,0 +1,76 @@
+review_reason,movie_id,query_used,tmdb_id,title,runtime,genre,release_date,popularity,title_score,final_score
+title_score < 90,adjustmentbureauthe,adjustment bureau the,38050,The Adjustment Bureau,106,"Science Fiction, Thriller, Romance",2011-03-03,5.0148,84.21052631578947,84.46126631578946
+title_score < 90,americanpresidentthe,american president the,9087,The American President,113,"Drama, Romance",1995-11-17,3.0566,85.0,85.15283
+title_score < 90,anniversarypartythe,anniversary party the,26475,The Anniversary Party,115,"Comedy, Drama",2001-06-09,1.1737,84.21052631578947,84.26921131578946
+title_score < 90,apartmentthe,apartment the,284,The Apartment,126,"Comedy, Drama, Romance",1960-06-21,5.1236,75.0,75.25618
+title_score < 90,artistthe,artist the,1209875,The Artist,23,Drama,1987-01-01,0.2493,82.35294117647058,82.36540617647059
+title_score < 90,assignmentthe,assignment the,399173,The Assignment,95,"Action, Crime, Thriller",2016-06-08,3.236,76.92307692307692,77.08487692307692
+title_score < 90,backupplanthe,backup plan the,34806,The Back-Up Plan,106,"Comedy, Romance",2010-04-23,2.9678,76.92307692307692,67.07146692307693
+title_score < 90,battleofshakerheightsthe,battle of shaker heights the,21413,The Battle of Shaker Heights,79,"Comedy, Drama, Romance",2003-08-22,1.1102,87.5,87.55551
+title_score < 90,blackdahliathe,black dahlia the,9676,The Black Dahlia,121,"Crime, Thriller, Drama",2006-09-15,2.4073,78.57142857142857,78.69179357142858
+title_score < 90,bookofelithe,book of eli the,20504,The Book of Eli,118,"Action, Thriller, Science Fiction",2010-01-14,7.0444,75.0,75.35222
+title_score < 90,bourneidentitythe,bourne identity the,2501,The Bourne Identity,119,"Action, Drama, Mystery, Thriller",2002-06-14,16.2435,82.35294117647058,83.16511617647058
+title_score < 90,bourneultimatumthe,bourne ultimatum the,2503,The Bourne Ultimatum,115,"Action, Drama, Mystery, Thriller",2007-08-03,8.5814,83.33333333333334,83.76240333333334
+title_score < 90,butterflyeffectthe,butterfly effect the,1954,The Butterfly Effect,113,"Science Fiction, Thriller",2004-01-17,10.0337,83.33333333333334,83.83501833333334
+title_score < 90,ciderhouserulesthe,cider house rules the,1715,The Cider House Rules,126,Drama,1999-12-17,5.083,83.33333333333334,83.58748333333334
+title_score < 90,cincinnatikidthe,cincinnati kid the,886,The Cincinnati Kid,102,Drama,1965-10-15,1.4305,81.25,81.321525
+title_score < 90,cowboysaliens,cowboys aliens,49849,Cowboys & Aliens,119,"Action, Science Fiction, Thriller, Western",2011-07-29,6.9296,89.65517241379311,90.00165241379311
+title_score < 90,crowsalvationthe,crow salvation the,9456,The Crow: Salvation,101,"Action, Thriller, Horror, Fantasy",2000-01-23,2.2957,81.25,81.364785
+title_score < 90,cryinggame,crying game,11386,The Crying Game,112,"Crime, Drama, Thriller",1992-09-02,2.2448,86.95652173913044,82.06876173913044
+title_score < 90,darkknightrisesthe,dark knight rises the,49026,The Dark Knight Rises,165,"Action, Crime, Drama, Thriller",2012-07-17,20.8377,83.33333333333334,84.37521833333334
+title_score < 90,daytheclowncriedthe,day the clown cried the,1665029,The Day the Clown Cried,90,Drama,1972-01-01,0.1057,84.21052631578947,84.21581131578947
+title_score < 90,daytheearthstoodstillthe,day the earth stood still the,10200,The Day the Earth Stood Still,104,"Drama, Science Fiction, Thriller",2008-12-10,4.6722,87.5,87.73361
+title_score < 90,deerhunterthe,deer hunter the,11778,The Deer Hunter,183,"Drama, War",1978-12-08,7.0693,76.92307692307692,77.27654192307692
+title_score < 90,fabulousbakerboysthe,fabulous baker boys the,10875,The Fabulous Baker Boys,114,"Comedy, Drama, Music, Romance",1989-10-13,1.4354,85.0,85.07177
+title_score < 90,faultinourstarsthe,fault in our stars the,222935,The Fault in Our Stars,126,"Romance, Drama",2014-06-02,5.5967,83.33333333333334,83.61316833333335
+title_score < 90,frenchconnectionthe,french connection the,1051,The French Connection,104,"Action, Crime, Thriller",1971-10-09,3.6707,84.21052631578947,84.39406131578947
+title_score < 90,ghostbusters2,ghostbusters 2,2978,Ghostbusters II,108,"Comedy, Fantasy",1989-06-16,5.6044,88.88888888888889,84.16910888888889
+title_score < 90,godfatherpartiiithe,godfather part iii the,242,The Godfather Part III,162,"Crime, Drama, Thriller",1990-12-25,13.2794,84.21052631578947,84.87449631578947
+title_score < 90,greenmilethe,green mile the,497,The Green Mile,189,"Fantasy, Drama, Crime",1999-12-10,28.4985,75.0,76.424925
+title_score < 90,hebrewhammerthe,hebrew hammer the,19187,The Hebrew Hammer,81,"Action, Comedy",2003-12-05,0.8032,80.0,80.04016
+title_score < 90,helpthe,help the,442983,Help the Old,10,Thriller,1998-01-01,0.0659,82.35294117647058,77.35623617647057
+title_score < 90,hillshaveeyesthe,hills have eyes the,9792,The Hills Have Eyes,107,"Horror, Thriller",2006-03-10,11.5976,81.25,81.82988
+title_score < 90,horsewhispererthe,horse whisperer the,547,The Horse Whisperer,169,"Adventure, Drama, Romance",1998-02-01,3.3728,82.35294117647058,82.52158117647058
+title_score < 90,idesofmarchthe,ides of march the,10316,The Ides of March,101,Drama,2011-10-07,3.4753,78.57142857142857,78.74519357142857
+title_score < 90,inventionoflyingthe,invention of lying the,23082,The Invention of Lying,100,"Comedy, Fantasy, Romance",2009-10-02,3.5693,84.21052631578947,84.38899131578947
+title_score < 90,italianjobthe,italian job the,9654,The Italian Job,110,"Action, Crime",2003-05-30,7.1752,76.92307692307692,77.28183692307692
+title_score < 90,kateleopold,kate leopold,11232,Kate & Leopold,118,"Romance, Comedy, Fantasy",2001-12-25,3.8556,88.0,88.19278
+title_score < 90,kidsareallrightthe,kids are all right the,39781,The Kids Are All Right,106,"Comedy, Drama",2010-07-09,1.5383,83.33333333333334,83.41024833333334
+title_score < 90,ladykillersthe,ladykillers the,5516,The Ladykillers,104,"Comedy, Crime, Thriller",2004-03-25,3.7724,78.57142857142857,78.76004857142857
+title_score < 90,lastboyscoutthe,last boy scout the,9319,The Last Boy Scout,105,"Action, Thriller",1991-12-13,4.3303,80.0,80.216515
+title_score < 90,lastflightthe,last flight the,37779,The Last Flight,98,"Adventure, Drama, Romance",2009-11-05,0.6805,76.92307692307692,76.95710192307692
+title_score < 90,lastsamuraithe,last samurai the,616,The Last Samurai,154,"Drama, Action, War",2003-12-05,9.4205,78.57142857142857,79.04245357142857
+title_score < 90,lifeofdavidgalethe,life of david gale the,11615,The Life of David Gale,130,"Drama, Thriller, Crime",2003-02-21,3.0487,83.33333333333334,83.48576833333334
+title_score < 90,lincolnlawyerthe,lincoln lawyer the,50348,The Lincoln Lawyer,119,"Crime, Drama, Thriller",2011-03-17,3.2863,81.25,81.414315
+title_score < 90,longkissgoodnightthe,long kiss goodnight the,11412,The Long Kiss Goodnight,121,"Crime, Action, Mystery, Thriller",1996-10-11,4.0619,85.0,85.203095
+title_score < 90,lordoftheringsfellowshipoftheringthe,lord of the rings fellowship of the ring the,120,The Lord of the Rings: The Fellowship of the Ring,179,"Adventure, Fantasy, Action",2001-12-18,43.6819,88.0,90.184095
+title_score < 90,manchuriancandidatethe,manchurian candidate the,14462,The Manchurian Candidate,130,"Thriller, Drama, Mystery",2004-07-30,3.0773,86.36363636363636,86.51750136363636
+title_score < 90,manwhoknewtoomuchthe,man who knew too much the,574,The Man Who Knew Too Much,121,"Thriller, Mystery, Drama",1956-05-16,2.7714,85.0,85.13857
+title_score < 90,manwhowasnttherethe,man who wasnt there the,10778,The Man Who Wasn't There,116,"Crime, Drama",2001-10-26,2.8291,84.21052631578947,74.35198131578946
+title_score < 90,mariachiel,mariachi el,9367,El Mariachi,81,"Action, Crime, Thriller, Western",1993-02-22,1.984,80.0,80.0992
+title_score < 90,marleyme,marley me,14306,Marley & Me,115,"Comedy, Family",2008-12-25,4.4259,84.21052631578947,84.43182131578946
+title_score < 90,otherboleyngirlthe,other boleyn girl the,12184,The Other Boleyn Girl,116,"Drama, Romance, History",2008-02-28,3.8547,83.33333333333334,83.52606833333334
+title_score < 90,patriotthe,patriot the,507542,The Patriot,85,"War, Drama",1998-01-01,0.2134,82.35294117647058,82.36361117647058
+title_score < 90,pianistthe,pianist the,1642694,The Pianist,88,"TV Movie, Drama",1983-05-09,0.2134,77.77777777777779,77.78844777777779
+title_score < 90,queenthe,queen the,115261,Queen of the Mob,61,"Crime, Drama",1940-06-28,0.4901,76.19047619047619,66.2149811904762
+title_score < 90,replacementsthe,replacements the,10393,The Replacements,118,Comedy,2000-08-11,2.8738,80.0,80.14369
+title_score < 90,ringu,ring u,1483931,Ring,9,"Romance, Drama",2020-04-16,0.1254,88.88888888888889,88.89515888888889
+title_score < 90,rockthe,rock the,1162442,Rock the Boat,91,"Thriller, Mystery, TV Movie",2023-08-17,0.2057,77.77777777777779,72.78806277777778
+title_score < 90,saltonseathe,salton sea the,11468,The Salton Sea,103,"Crime, Drama, Mystery, Thriller",2002-02-12,1.5291,75.0,75.076455
+title_score < 90,searchersthe,searchers the,3114,The Searchers,119,Western,1956-05-16,5.1342,75.0,75.25671
+title_score < 90,shiningthe,shining the,475008,Shining the Ball,16,Drama,2005-06-10,0.0311,83.33333333333334,78.33488833333334
+title_score < 90,shippingnewsthe,shipping news the,6440,The Shipping News,111,"Drama, Romance",2001-12-18,1.8963,80.0,80.094815
+title_score < 90,siegethe,siege the,1462086,Siege in the Air,30,Documentary,2022-05-17,0.1218,76.19047619047619,66.19656619047619
+title_score < 90,sixthsensethe,sixth sense the,320904,Sixth Sense Hooker,62,Horror,2001-10-26,0.4236,82.75862068965517,77.77980068965518
+title_score < 90,socialnetworkthe,social network the,37799,The Social Network,121,Drama,2010-10-01,11.1511,81.25,81.807555
+title_score < 90,starwarsattackoftheclones,star wars attack of the clones,1152956,The Making of Star Wars Attack of the Clones,0,,2019-10-11,0.0478,81.9672131147541,76.96960311475411
+title_score < 90,sweethereafterthe,sweet hereafter the,10217,The Sweet Hereafter,112,Drama,1997-09-25,1.4696,82.35294117647058,82.42642117647058
+title_score < 90,takingofpelhamonetwothreethe,taking of pelham one two three the,8333,The Taking of Pelham One Two Three,105,"Crime, Thriller, Comedy, Action",1974-10-02,2.4053,89.28571428571429,89.4059792857143
+title_score < 90,thelmalouise,thelma louise,1541,Thelma & Louise,130,"Drama, Crime, Adventure",1991-05-24,7.5198,88.88888888888889,89.26487888888889
+title_score < 90,timemachinethe,time machine the,2135,The Time Machine,96,"Science Fiction, Adventure, Action",2002-03-04,5.2851,78.57142857142857,78.83568357142858
+title_score < 90,trumanshowthe,truman show the,37165,The Truman Show,103,"Comedy, Drama",1998-06-04,20.9228,76.92307692307692,77.96921692307691
+title_score < 90,twilightnewmoon,twilight new moon,18239,The Twilight Saga: New Moon,131,"Adventure, Fantasy, Drama, Romance",2009-11-18,11.3105,81.08108108108108,71.64660608108107
+title_score < 90,warhorse,warhorse,1076487,Warhorse One,125,"Action, War, Drama",2023-06-30,2.6394,84.21052631578947,79.34249631578946
+title_score < 90,wildbunchthe,wild bunch the,576,The Wild Bunch,145,Western,1969-06-19,2.8941,75.0,75.144705
+title_score < 90,wizardofozthe,wizard of oz the,630,The Wizard of Oz,102,"Adventure, Fantasy, Family",1939-08-15,11.3937,76.92307692307692,77.49276192307693
+title_score < 90,worldisnotenoughthe,world is not enough the,36643,The World Is Not Enough,128,"Adventure, Action, Thriller",1999-11-17,5.3254,84.21052631578947,84.47679631578947

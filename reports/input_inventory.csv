@@ -1,0 +1,5 @@
+artifact,bytes,status
+scene_extraction_log.csv,38560,present
+tmdb_api_movie_metadata.csv,66817,present
+tmdb_api_unmatched_movies.csv,3225,present
+scene_level_tfidf_filtered_sentiment.csv,92291737,present
