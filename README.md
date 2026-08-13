@@ -1,7 +1,5 @@
 # Do Genres Feel Different? Reproducible Movie-Dialogue Analysis
 
-This repository rebuilds the DATASCI 112 final project as six explicit stages and adds the robustness checks needed before the project is linked publicly.
-
 ## Research questions
 
 1. Do movie genres create distinct emotional arcs through dialogue?
