@@ -12,8 +12,6 @@ The screenplay source is **Film Corpus 2.0**, described by its publishers as a c
 
 Movie title, runtime, and genre metadata came from TMDb. TMDb data is not an external validation set: it is metadata joined by automated title matching.
 
-Raw Film Corpus files are not redistributed here. Place the supplied CSV exports in `data/raw/` or pass their directory with `--data-dir`.
-
 ## Analyses and interpretation
 
 The main genre arc is the mean of film-level story-zone means. Confidence intervals resample films, not scenes. Figure labels show the number of unique films contributing to each genre.
