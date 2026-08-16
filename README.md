@@ -1,5 +1,7 @@
 # Do Genres Feel Different? Reproducible Movie-Dialogue Analysis
 
+## By Miller Roberts and Hannah Zingapan
+
 ## Research questions
 
 1. Do movie genres create distinct emotional arcs through dialogue?
